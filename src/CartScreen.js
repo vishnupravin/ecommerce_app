@@ -4,7 +4,7 @@ import {
     StyleSheet,
     Text,
     View,
-    TouchableOpacity,
+    TouchableOpacity,   
     FlatList,
     Image,
     ScrollView,
