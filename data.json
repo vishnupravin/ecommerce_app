@@ -1,0 +1,365 @@
+                 {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Electronics",
+        "items": [
+          {
+            "id": 1,
+            "cat_id": 1,
+            "name": "Smartphone",
+            "price": 599.99
+          },
+          {
+            "id": 2,
+            "cat_id": 1,
+            "name": "Laptop",
+            "price": 999.99
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Books",
+        "items": [
+          {
+            "id": 3,
+            "cat_id": 2,
+            "name": "The Great Gatsby",
+            "price": 9.99
+          },
+          {
+            "id": 4,
+            "cat_id": 2,
+            "name": "To Kill a Mockingbird",
+            "price": 7.99
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Clothing",
+        "items": [
+          {
+            "id": 5,
+            "cat_id": 3,
+            "name": "T-Shirt",
+            "price": 19.99
+          },
+          {
+            "id": 6,
+            "cat_id": 3,
+            "name": "Jeans",
+            "price": 39.99
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Home Appliances",
+        "items": [
+          {
+            "id": 7,
+            "cat_id": 4,
+            "name": "Coffee Maker",
+            "price": 49.99
+          },
+          {
+            "id": 8,
+            "cat_id": 4,
+            "name": "Blender",
+            "price": 29.99
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Toys",
+        "items": [
+          {
+            "id": 9,
+            "cat_id": 5,
+            "name": "Action Figure",
+            "price": 14.99
+          },
+          {
+            "id": 10,
+            "cat_id": 5,
+            "name": "Board Game",
+            "price": 24.99
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Sporting Goods",
+        "items": [
+          {
+            "id": 11,
+            "cat_id": 6,
+            "name": "Yoga Mat",
+            "price": 19.99
+          },
+          {
+            "id": 12,
+            "cat_id": 6,
+            "name": "Dumbbell Set",
+            "price": 49.99
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Kitchenware",
+        "items": [
+          {
+            "id": 13,
+            "cat_id": 7,
+            "name": "Knife Set",
+            "price": 39.99
+          },
+          {
+            "id": 14,
+            "cat_id": 7,
+            "name": "Cookware Set",
+            "price": 79.99
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Furniture",
+        "items": [
+          {
+            "id": 15,
+            "cat_id": 8,
+            "name": "Sofa",
+            "price": 399.99
+          },
+          {
+            "id": 16,
+            "cat_id": 8,
+            "name": "Dining Table",
+            "price": 299.99
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Beauty",
+        "items": [
+          {
+            "id": 17,
+            "cat_id": 9,
+            "name": "Lipstick",
+            "price": 9.99
+          },
+          {
+            "id": 18,
+            "cat_id": 9,
+            "name": "Shampoo",
+            "price": 5.99
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Tools",
+        "items": [
+          {
+            "id": 19,
+            "cat_id": 10,
+            "name": "Drill",
+            "price": 49.99
+          },
+          {
+            "id": 20,
+            "cat_id": 10,
+            "name": "Toolbox",
+            "price": 29.99
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Pet Supplies",
+        "items": [
+          {
+            "id": 21,
+            "cat_id": 11,
+            "name": "Dog Food",
+            "price": 19.99
+          },
+          {
+            "id": 22,
+            "cat_id": 11,
+            "name": "Cat Litter",
+            "price": 9.99
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Jewelry",
+        "items": [
+          {
+            "id": 23,
+            "cat_id": 12,
+            "name": "Necklace",
+            "price": 29.99
+          },
+          {
+            "id": 24,
+            "cat_id": 12,
+            "name": "Earrings",
+            "price": 19.99
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Music",
+        "items": [
+          {
+            "id": 25,
+            "cat_id": 13,
+            "name": "Vinyl Record",
+            "price": 24.99
+          },
+          {
+            "id": 26,
+            "cat_id": 13,
+            "name": "Headphones",
+            "price": 49.99
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Health",
+        "items": [
+          {
+            "id": 27,
+            "cat_id": 14,
+            "name": "Vitamins",
+            "price": 14.99
+          },
+          {
+            "id": 28,
+            "cat_id": 14,
+            "name": "First Aid Kit",
+            "price": 29.99
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Automotive",
+        "items": [
+          {
+            "id": 29,
+            "cat_id": 15,
+            "name": "Car Wax",
+            "price": 9.99
+          },
+          {
+            "id": 30,
+            "cat_id": 15,
+            "name": "Tire Pressure Gauge",
+            "price": 19.99
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Garden",
+        "items": [
+          {
+            "id": 31,
+            "cat_id": 16,
+            "name": "Garden Hose",
+            "price": 29.99
+          },
+          {
+            "id": 32,
+            "cat_id": 16,
+            "name": "Pruning Shears",
+            "price": 14.99
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Home Decor",
+        "items": [
+          {
+            "id": 33,
+            "cat_id": 17,
+            "name": "Throw Pillow",
+            "price": 19.99
+          },
+          {
+            "id": 34,
+            "cat_id": 17,
+            "name": "Wall Art",
+            "price": 39.99
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Office Supplies",
+        "items": [
+          {
+            "id": 35,
+            "cat_id": 18,
+            "name": "Notebook",
+            "price": 4.99
+          },
+          {
+            "id": 36,
+            "cat_id": 18,
+            "name": "Desk Organizer",
+            "price": 14.99
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Baby",
+        "items": [
+          {
+            "id": 37,
+            "cat_id": 19,
+            "name": "Diapers",
+            "price": 19.99
+          },
+          {
+            "id": 38,
+            "cat_id": 19,
+            "name": "Baby Wipes",
+            "price": 9.99
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Fitness",
+        "items": [
+          {
+            "id": 39,
+            "cat_id": 20,
+            "name": "Yoga Mat",
+            "price": 19.99
+          },
+          {
+            "id": 40,
+            "cat_id": 20,
+            "name": "Resistance Bands",
+            "price": 14.99
+          }
+        ]
+      }
+    ]
+  }
+  
